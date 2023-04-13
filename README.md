@@ -9,7 +9,7 @@ DADO D6 (DICE ROLLER)
 
 
 
-![Dado_1](https://user-images.githubusercontent.com/124849131/227075549-9c5f1be4-c8c0-4b58-95ea-96a2340a20ba.png)
+
 
 
 > Forma de descobrir seu Signo.
@@ -27,7 +27,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 ## 🚀 Resumo Simples
 
 Um aplicativo Android na linguagem Kotlin feito para descobrir o seu signo a partir da informação da seu dia e mês de nascimento
-![Exemplo](https://user-images.githubusercontent.com/124849131/227073157-c75b2be2-84c3-4ddb-bc2f-f4ef1a00571d.png)
 Ao colocar as informações, aparecerá uma imagem de qual signo você é!
 
 ## 📫 Contribuindo para Dice Roller
